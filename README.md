@@ -6,8 +6,8 @@ Une collection de projets IA que je réalise pour apprendre et me challenger, au
 
 | N° | Nom du projet                      | Domaine            | Statut     |
 |----|-----------------------------------|---------------------|------------|
-| 01 | Match Winner Prediction           | Machine Learning    | 🟡 En cours |
-| 02 | Game Summary Generator            | Deep Learning       | ⚪️ À venir  |
+| 01 | Match Winner Prediction           | Machine Learning    | ⚪️ À venir |
+| 02 | Action Classifier                 | Deep Learning       | 🟡 En cours |
 | 03 | Twitter Sentiment Analysis        | NLP                 | ⚪️ À venir  |
 | 04 | Motion Recognition                | Computer Vision     | ⚪️ À venir  |
 | 05 | Substitution Strategy RL          | Reinforcement Learn | ⚪️ À venir  |
