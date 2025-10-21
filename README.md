@@ -4,18 +4,18 @@ Une collection de projets IA que je réalise pour apprendre et me challenger, au
 
 ## Projets
 
-| N° | Nom du projet                      | Domaine            | Statut     |
+| N° | Nom du projet                     | Domaine            | Statut     |
 |----|-----------------------------------|---------------------|------------|
-| 01 | Match Winner Prediction           | Machine Learning    | ⚪️ À venir |
-| 02 | Action Classifier                 | Deep Learning       | 🟡 En cours |
-| 03 | Twitter Sentiment Analysis        | NLP                 | ⚪️ À venir  |
-| 04 | Motion Recognition                | Computer Vision     | ⚪️ À venir  |
-| 05 | Substitution Strategy RL          | Reinforcement Learn | ⚪️ À venir  |
-| 06 | Highlight Summary Tool            | Multimodalité       | ⚪️ À venir  |
+| 01 | Action Classifier                 | Deep Learning       | 🟢 Terminé |
+| 02 | TikTok Toxic Comments Detection   | NLP                 | 🟡 En cours  |
+| 03 | Motion Recognition                | Computer Vision     | ⚪️ À venir  |
+| 04 | Substitution Strategy RL          | Reinforcement Learn | ⚪️ À venir  |
+| 06 | Match Winner Prediction           | Machine Learning    | ⚪️ À venir |
 
 ## Objectifs
 
-- Utiliser des techniques variées de l’IA dans un cadre NBA concret
+- Utiliser des techniques variées de l’IA dans un cadre  concret
 - Renforcer mes compétences en machine learning, NLP, RL, computer vision
 - Créer un portfolio IA personnel orienté sport/données réelles
 
+ 
